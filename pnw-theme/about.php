@@ -3,17 +3,20 @@
 <head>
 <meta charset="utf-8">
 <title>About Page</title>
-<link href="css/styles.css"type="text/css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+
+
+
 
 
 </head>
 
 
-
+<!-- X -->
 
 <body>
 
-<div id="wrapper"><!--open wrapper-->
+<div id="wrapper"><!--open wrap  per-->
 
 <header>
 
@@ -55,14 +58,4 @@
 </footer>
 
 
-<p>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
-    <img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
-        alt="Valid CSS!" />
-</a>
-</p>
 
-<p><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fedison.seattlecentral.edu%2F~jhende15%2Fweb120%2Fpnw%2Findex.html"><img src="images/html5.gif" alt="HTML Logo" width="65" height="81" ></a></p>
-</body>
-</html>
